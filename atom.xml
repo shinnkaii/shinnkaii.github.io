@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shinnkaii.github.io</id>
+    <title>瑟瑟站</title>
+    <updated>2022-09-25T13:11:25.044Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shinnkaii.github.io"/>
+    <link rel="self" href="https://shinnkaii.github.io/atom.xml"/>
+    <subtitle>此处无色色</subtitle>
+    <logo>https://shinnkaii.github.io/images/avatar.png</logo>
+    <icon>https://shinnkaii.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 瑟瑟站</rights>
+    <entry>
+        <title type="html"><![CDATA[测试一下先]]></title>
+        <id>https://shinnkaii.github.io/post/ce-shi-yi-xia-xian/</id>
+        <link href="https://shinnkaii.github.io/post/ce-shi-yi-xia-xian/">
+        </link>
+        <updated>2022-09-25T12:03:43.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://shinnkaii.github.io/post-images/1664107807046.jpg" alt="" loading="lazy">😁</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://shinnkaii.github.io/post-images/1664107807046.jpg" alt="" loading="lazy">😁</p>
+<!-- more -->
+<p><img src="https://shinnkaii.github.io/post-images/1664107735679.jpg" alt="" loading="lazy"><br>
+<img src="https://shinnkaii.github.io/post-images/1664107871626.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
